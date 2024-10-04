@@ -1,0 +1,114 @@
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\bin\Debug\net8.0-windows7.0\ChatForm.exe
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\bin\Debug\net8.0-windows7.0\ChatForm.deps.json
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\bin\Debug\net8.0-windows7.0\ChatForm.runtimeconfig.json
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\bin\Debug\net8.0-windows7.0\ChatForm.dll
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\bin\Debug\net8.0-windows7.0\ChatForm.pdb
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.Chat.resources
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.Login.resources
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.csproj.GenerateResource.cache
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.AssemblyInfoInputs.cache
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.AssemblyInfo.cs
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.dll
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\net8.0-windows7.0\refint\ChatForm.dll
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.pdb
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.genruntimeconfig.cache
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\net8.0-windows7.0\ref\ChatForm.dll
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\bin\Debug\net8.0-windows7.0\ChatAPI.deps.json
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\bin\Debug\net8.0-windows7.0\ChatAPI.runtimeconfig.json
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\bin\Debug\net8.0-windows7.0\appsettings.Development.json
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\bin\Debug\net8.0-windows7.0\appsettings.json
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\bin\Debug\net8.0-windows7.0\ChatAPI.exe
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\bin\Debug\net8.0-windows7.0\Microsoft.OpenApi.dll
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\bin\Debug\net8.0-windows7.0\Oracle.ManagedDataAccess.dll
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\bin\Debug\net8.0-windows7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\bin\Debug\net8.0-windows7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\bin\Debug\net8.0-windows7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\bin\Debug\net8.0-windows7.0\System.DirectoryServices.Protocols.dll
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\bin\Debug\net8.0-windows7.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\bin\Debug\net8.0-windows7.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\bin\Debug\net8.0-windows7.0\ChatAPI.dll
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\bin\Debug\net8.0-windows7.0\ChatBusinessLogic.dll
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\bin\Debug\net8.0-windows7.0\ChatBusinessLogic.pdb
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\bin\Debug\net8.0-windows7.0\ChatAPI.pdb
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.csproj.AssemblyReference.cache
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.csproj.Up2Date
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.QuenMk.resources
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\bin\Debug\net8.0-windows7.0\ChatAPI.deps.json
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\bin\Debug\net8.0-windows7.0\ChatAPI.runtimeconfig.json
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\bin\Debug\net8.0-windows7.0\appsettings.Development.json
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\bin\Debug\net8.0-windows7.0\appsettings.json
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\bin\Debug\net8.0-windows7.0\ChatAPI.exe
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\bin\Debug\net8.0-windows7.0\ChatForm.exe
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\bin\Debug\net8.0-windows7.0\ChatForm.deps.json
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\bin\Debug\net8.0-windows7.0\ChatForm.runtimeconfig.json
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\bin\Debug\net8.0-windows7.0\ChatForm.dll
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\bin\Debug\net8.0-windows7.0\ChatForm.pdb
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\bin\Debug\net8.0-windows7.0\Microsoft.OpenApi.dll
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\bin\Debug\net8.0-windows7.0\Oracle.ManagedDataAccess.dll
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\bin\Debug\net8.0-windows7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\bin\Debug\net8.0-windows7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\bin\Debug\net8.0-windows7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\bin\Debug\net8.0-windows7.0\System.DirectoryServices.Protocols.dll
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\bin\Debug\net8.0-windows7.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\bin\Debug\net8.0-windows7.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\bin\Debug\net8.0-windows7.0\ChatAPI.dll
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\bin\Debug\net8.0-windows7.0\ChatBusinessLogic.dll
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\bin\Debug\net8.0-windows7.0\ChatBusinessLogic.pdb
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\bin\Debug\net8.0-windows7.0\ChatAPI.pdb
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.csproj.AssemblyReference.cache
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.Chat.resources
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.Login.resources
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.QuenMk.resources
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.csproj.GenerateResource.cache
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.AssemblyInfoInputs.cache
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.AssemblyInfo.cs
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.csproj.CoreCompileInputs.cache
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.csproj.Up2Date
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.dll
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\obj\Debug\net8.0-windows7.0\refint\ChatForm.dll
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.pdb
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.genruntimeconfig.cache
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatForm\obj\Debug\net8.0-windows7.0\ref\ChatForm.dll
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\bin\Debug\net8.0-windows7.0\appsettings.Development.json
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\bin\Debug\net8.0-windows7.0\appsettings.json
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\bin\Debug\net8.0-windows7.0\ChatAPI.deps.json
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\bin\Debug\net8.0-windows7.0\ChatAPI.runtimeconfig.json
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\bin\Debug\net8.0-windows7.0\ChatAPI.exe
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\bin\Debug\net8.0-windows7.0\ChatForm.exe
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\bin\Debug\net8.0-windows7.0\ChatForm.deps.json
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\bin\Debug\net8.0-windows7.0\ChatForm.runtimeconfig.json
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\bin\Debug\net8.0-windows7.0\ChatForm.dll
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\bin\Debug\net8.0-windows7.0\ChatForm.pdb
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\bin\Debug\net8.0-windows7.0\Microsoft.OpenApi.dll
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\bin\Debug\net8.0-windows7.0\Oracle.ManagedDataAccess.dll
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\bin\Debug\net8.0-windows7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\bin\Debug\net8.0-windows7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\bin\Debug\net8.0-windows7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\bin\Debug\net8.0-windows7.0\System.DirectoryServices.Protocols.dll
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\bin\Debug\net8.0-windows7.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\bin\Debug\net8.0-windows7.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\bin\Debug\net8.0-windows7.0\ChatAPI.dll
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\bin\Debug\net8.0-windows7.0\ChatBusinessLogic.dll
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\bin\Debug\net8.0-windows7.0\ChatBusinessLogic.pdb
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\bin\Debug\net8.0-windows7.0\ChatAPI.pdb
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.csproj.AssemblyReference.cache
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.Chat.resources
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.Login.resources
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.QuenMk.resources
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.csproj.GenerateResource.cache
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.AssemblyInfoInputs.cache
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.AssemblyInfo.cs
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.csproj.CoreCompileInputs.cache
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.csproj.Up2Date
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.dll
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\obj\Debug\net8.0-windows7.0\refint\ChatForm.dll
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.pdb
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.genruntimeconfig.cache
+C:\Users\thaoh\source\repos\ChatConsole\ChatForm\obj\Debug\net8.0-windows7.0\ref\ChatForm.dll

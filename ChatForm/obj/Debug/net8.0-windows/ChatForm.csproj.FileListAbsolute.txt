@@ -1,0 +1,17 @@
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\bin\Debug\net8.0-windows\ChatForm.exe
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\bin\Debug\net8.0-windows\ChatForm.deps.json
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\bin\Debug\net8.0-windows\ChatForm.runtimeconfig.json
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\bin\Debug\net8.0-windows\ChatForm.dll
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\bin\Debug\net8.0-windows\ChatForm.pdb
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\net8.0-windows\ChatForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\net8.0-windows\ChatForm.AssemblyInfoInputs.cache
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\net8.0-windows\ChatForm.AssemblyInfo.cs
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\net8.0-windows\ChatForm.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\net8.0-windows\ChatForm.dll
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\net8.0-windows\refint\ChatForm.dll
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\net8.0-windows\ChatForm.pdb
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\net8.0-windows\ChatForm.genruntimeconfig.cache
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\net8.0-windows\ref\ChatForm.dll
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\net8.0-windows\ChatForm.csproj.GenerateResource.cache
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\net8.0-windows\ChatForm.Chat.resources
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\net8.0-windows\ChatForm.Login.resources

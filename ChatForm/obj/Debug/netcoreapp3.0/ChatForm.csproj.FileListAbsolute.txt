@@ -1,0 +1,8 @@
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\netcoreapp3.0\ChatForm.Chat.resources
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\netcoreapp3.0\ChatForm.Friends.resources
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\netcoreapp3.0\ChatForm.Login.resources
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\netcoreapp3.0\ChatForm.csproj.GenerateResource.cache
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\netcoreapp3.0\ChatForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\netcoreapp3.0\ChatForm.AssemblyInfoInputs.cache
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\netcoreapp3.0\ChatForm.AssemblyInfo.cs
+C:\Users\NGUYEN DUC DAO\source\repos\ChatForm\obj\Debug\netcoreapp3.0\ChatForm.csproj.CoreCompileInputs.cache

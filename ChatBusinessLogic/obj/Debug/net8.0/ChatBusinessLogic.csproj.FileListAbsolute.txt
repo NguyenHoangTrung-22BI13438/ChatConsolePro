@@ -1,0 +1,60 @@
+C:\Users\NGUYEN DUC DAO\source\repos\ChatBusinessLogic\bin\Debug\net8.0\ChatAPI.deps.json
+C:\Users\NGUYEN DUC DAO\source\repos\ChatBusinessLogic\bin\Debug\net8.0\ChatAPI.runtimeconfig.json
+C:\Users\NGUYEN DUC DAO\source\repos\ChatBusinessLogic\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\NGUYEN DUC DAO\source\repos\ChatBusinessLogic\bin\Debug\net8.0\appsettings.json
+C:\Users\NGUYEN DUC DAO\source\repos\ChatBusinessLogic\bin\Debug\net8.0\ChatAPI.exe
+C:\Users\NGUYEN DUC DAO\source\repos\ChatBusinessLogic\bin\Debug\net8.0\ChatBusinessLogic.deps.json
+C:\Users\NGUYEN DUC DAO\source\repos\ChatBusinessLogic\bin\Debug\net8.0\ChatBusinessLogic.dll
+C:\Users\NGUYEN DUC DAO\source\repos\ChatBusinessLogic\bin\Debug\net8.0\ChatBusinessLogic.pdb
+C:\Users\NGUYEN DUC DAO\source\repos\ChatBusinessLogic\bin\Debug\net8.0\ChatAPI.dll
+C:\Users\NGUYEN DUC DAO\source\repos\ChatBusinessLogic\bin\Debug\net8.0\ChatAPI.pdb
+C:\Users\NGUYEN DUC DAO\source\repos\ChatBusinessLogic\obj\Debug\net8.0\ChatBusinessLogic.csproj.AssemblyReference.cache
+C:\Users\NGUYEN DUC DAO\source\repos\ChatBusinessLogic\obj\Debug\net8.0\ChatBusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUYEN DUC DAO\source\repos\ChatBusinessLogic\obj\Debug\net8.0\ChatBusinessLogic.AssemblyInfoInputs.cache
+C:\Users\NGUYEN DUC DAO\source\repos\ChatBusinessLogic\obj\Debug\net8.0\ChatBusinessLogic.AssemblyInfo.cs
+C:\Users\NGUYEN DUC DAO\source\repos\ChatBusinessLogic\obj\Debug\net8.0\ChatBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN DUC DAO\source\repos\ChatBusinessLogic\obj\Debug\net8.0\ChatBusi.1E1E9725.Up2Date
+C:\Users\NGUYEN DUC DAO\source\repos\ChatBusinessLogic\obj\Debug\net8.0\ChatBusinessLogic.dll
+C:\Users\NGUYEN DUC DAO\source\repos\ChatBusinessLogic\obj\Debug\net8.0\refint\ChatBusinessLogic.dll
+C:\Users\NGUYEN DUC DAO\source\repos\ChatBusinessLogic\obj\Debug\net8.0\ChatBusinessLogic.pdb
+C:\Users\NGUYEN DUC DAO\source\repos\ChatBusinessLogic\obj\Debug\net8.0\ref\ChatBusinessLogic.dll
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatBusinessLogic\bin\Debug\net8.0\ChatAPI.deps.json
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatBusinessLogic\bin\Debug\net8.0\ChatAPI.runtimeconfig.json
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatBusinessLogic\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatBusinessLogic\bin\Debug\net8.0\appsettings.json
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatBusinessLogic\bin\Debug\net8.0\ChatAPI.exe
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatBusinessLogic\bin\Debug\net8.0\ChatBusinessLogic.deps.json
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatBusinessLogic\bin\Debug\net8.0\ChatBusinessLogic.dll
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatBusinessLogic\bin\Debug\net8.0\ChatBusinessLogic.pdb
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatBusinessLogic\bin\Debug\net8.0\ChatAPI.dll
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatBusinessLogic\bin\Debug\net8.0\ChatAPI.pdb
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatBusinessLogic\obj\Debug\net8.0\ChatBusinessLogic.csproj.AssemblyReference.cache
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatBusinessLogic\obj\Debug\net8.0\ChatBusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatBusinessLogic\obj\Debug\net8.0\ChatBusinessLogic.AssemblyInfoInputs.cache
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatBusinessLogic\obj\Debug\net8.0\ChatBusinessLogic.AssemblyInfo.cs
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatBusinessLogic\obj\Debug\net8.0\ChatBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatBusinessLogic\obj\Debug\net8.0\ChatBusi.1E1E9725.Up2Date
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatBusinessLogic\obj\Debug\net8.0\ChatBusinessLogic.dll
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatBusinessLogic\obj\Debug\net8.0\refint\ChatBusinessLogic.dll
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatBusinessLogic\obj\Debug\net8.0\ChatBusinessLogic.pdb
+C:\Users\thaoh\source\repos\Draft\New folder (2)\ChatBusinessLogic\obj\Debug\net8.0\ref\ChatBusinessLogic.dll
+C:\Users\thaoh\source\repos\ChatConsole\ChatBusinessLogic\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\thaoh\source\repos\ChatConsole\ChatBusinessLogic\bin\Debug\net8.0\appsettings.json
+C:\Users\thaoh\source\repos\ChatConsole\ChatBusinessLogic\bin\Debug\net8.0\ChatAPI.deps.json
+C:\Users\thaoh\source\repos\ChatConsole\ChatBusinessLogic\bin\Debug\net8.0\ChatAPI.runtimeconfig.json
+C:\Users\thaoh\source\repos\ChatConsole\ChatBusinessLogic\bin\Debug\net8.0\ChatAPI.exe
+C:\Users\thaoh\source\repos\ChatConsole\ChatBusinessLogic\bin\Debug\net8.0\ChatBusinessLogic.deps.json
+C:\Users\thaoh\source\repos\ChatConsole\ChatBusinessLogic\bin\Debug\net8.0\ChatBusinessLogic.dll
+C:\Users\thaoh\source\repos\ChatConsole\ChatBusinessLogic\bin\Debug\net8.0\ChatBusinessLogic.pdb
+C:\Users\thaoh\source\repos\ChatConsole\ChatBusinessLogic\bin\Debug\net8.0\ChatAPI.dll
+C:\Users\thaoh\source\repos\ChatConsole\ChatBusinessLogic\bin\Debug\net8.0\ChatAPI.pdb
+C:\Users\thaoh\source\repos\ChatConsole\ChatBusinessLogic\obj\Debug\net8.0\ChatBusinessLogic.csproj.AssemblyReference.cache
+C:\Users\thaoh\source\repos\ChatConsole\ChatBusinessLogic\obj\Debug\net8.0\ChatBusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thaoh\source\repos\ChatConsole\ChatBusinessLogic\obj\Debug\net8.0\ChatBusinessLogic.AssemblyInfoInputs.cache
+C:\Users\thaoh\source\repos\ChatConsole\ChatBusinessLogic\obj\Debug\net8.0\ChatBusinessLogic.AssemblyInfo.cs
+C:\Users\thaoh\source\repos\ChatConsole\ChatBusinessLogic\obj\Debug\net8.0\ChatBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\thaoh\source\repos\ChatConsole\ChatBusinessLogic\obj\Debug\net8.0\ChatBusi.1E1E9725.Up2Date
+C:\Users\thaoh\source\repos\ChatConsole\ChatBusinessLogic\obj\Debug\net8.0\ChatBusinessLogic.dll
+C:\Users\thaoh\source\repos\ChatConsole\ChatBusinessLogic\obj\Debug\net8.0\refint\ChatBusinessLogic.dll
+C:\Users\thaoh\source\repos\ChatConsole\ChatBusinessLogic\obj\Debug\net8.0\ChatBusinessLogic.pdb
+C:\Users\thaoh\source\repos\ChatConsole\ChatBusinessLogic\obj\Debug\net8.0\ref\ChatBusinessLogic.dll
