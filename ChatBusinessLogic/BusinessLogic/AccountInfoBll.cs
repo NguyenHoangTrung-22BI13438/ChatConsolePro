@@ -16,7 +16,7 @@ namespace ChatBusinessLogic.BusinessLogic
                 using (OracleCommand cmd = new OracleCommand())
                 {
                     cmd.Connection = conn;
-                    cmd.CommandText = @"SELECT name, phone_number, avartar FROM userinfo WHERE user_id =: userid";
+                    cmd.CommandText = @"SELECT name, phone_number, avatar FROM userinfo WHERE user_id =: userid";
                     cmd.Parameters.Add(new OracleParameter("userid", model.UserID));
                     using (OracleDataReader reader = cmd.ExecuteReader())
                     {

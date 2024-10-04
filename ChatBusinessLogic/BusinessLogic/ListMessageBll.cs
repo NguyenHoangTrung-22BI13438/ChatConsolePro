@@ -21,7 +21,7 @@ namespace ChatBusinessLogic.BusinessLogic
                 using (OracleCommand cmd = new OracleCommand())
                 {
                     cmd.Connection = conn;
-                    cmd.CommandText = @"SELECT content,userinfo.avartar, create_time, message.status,author_id
+                    cmd.CommandText = @"SELECT content,userinfo.avatar, create_time, message.status,author_id
                                         FROM message inner join userinfo on author_id=userinfo.user_id 
                                         WHERE relationship_id =: id order by create_time";
                     cmd.Parameters.Add(new OracleParameter("id", model.RelationshipID));

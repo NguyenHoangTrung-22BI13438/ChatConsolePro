@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ChatForm
-build_property.ProjectDir = C:\Users\thaoh\source\repos\ChatConsole\ChatForm\
+build_property.ProjectDir = C:\Users\thaoh\source\repos\ChatConsolePro\ChatForm\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

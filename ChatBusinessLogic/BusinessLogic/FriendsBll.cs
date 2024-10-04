@@ -25,7 +25,7 @@ namespace ChatBusinessLogic.BusinessLogic
                 using (OracleCommand cmd = new OracleCommand())
                 {
                     cmd.Connection = conn;
-                    cmd.CommandText = @"SELECT userinfo.user_id, userinfo.name, userinfo.status, userinfo.avartar,
+                    cmd.CommandText = @"SELECT userinfo.user_id, userinfo.name, userinfo.status, userinfo.avatar,
                                         (SELECT content FROM message WHERE message.relationship_id = relationship.relationship_id
                                         ORDER BY id DESC FETCH FIRST 1 ROW ONLY) AS content,
                                         (SELECT id FROM message WHERE message.relationship_id = relationship.relationship_id

@@ -49,7 +49,7 @@ namespace ChatForm
             {
                 LoginModel model = new LoginModel();
                 model.UserName = textBox1.Text;
-                model.PassWord = textBox2.Text;
+                model.Password = textBox2.Text;
                 LoginBll chat = new LoginBll();
                 var rs = chat.Login(model);
                 if (rs.IsSuccess)

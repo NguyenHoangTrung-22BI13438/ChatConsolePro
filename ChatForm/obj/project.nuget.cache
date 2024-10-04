@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1TWH/ItRFG0=",
+  "dgSpecHash": "YCZJ3mCNZus=",
   "success": true,
-  "projectFilePath": "C:\\Users\\thaoh\\source\\repos\\ChatConsole\\ChatForm\\ChatForm.csproj",
+  "projectFilePath": "C:\\Users\\thaoh\\source\\repos\\ChatConsolePro\\ChatForm\\ChatForm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thaoh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\thaoh\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

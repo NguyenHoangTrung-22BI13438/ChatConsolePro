@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thaoh\\source\\repos\\ChatConsole\\ChatWeb\\ChatWeb.csproj": {}
+    "C:\\Users\\thaoh\\source\\repos\\ChatConsolePro\\ChatWeb\\ChatWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thaoh\\source\\repos\\ChatConsole\\ChatWeb\\ChatWeb.csproj": {
+    "C:\\Users\\thaoh\\source\\repos\\ChatConsolePro\\ChatWeb\\ChatWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thaoh\\source\\repos\\ChatConsole\\ChatWeb\\ChatWeb.csproj",
+        "projectUniqueName": "C:\\Users\\thaoh\\source\\repos\\ChatConsolePro\\ChatWeb\\ChatWeb.csproj",
         "projectName": "ChatWeb",
-        "projectPath": "C:\\Users\\thaoh\\source\\repos\\ChatConsole\\ChatWeb\\ChatWeb.csproj",
+        "projectPath": "C:\\Users\\thaoh\\source\\repos\\ChatConsolePro\\ChatWeb\\ChatWeb.csproj",
         "packagesPath": "C:\\Users\\thaoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thaoh\\source\\repos\\ChatConsole\\ChatWeb\\obj\\",
+        "outputPath": "C:\\Users\\thaoh\\source\\repos\\ChatConsolePro\\ChatWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thaoh\\AppData\\Roaming\\NuGet\\NuGet.Config",

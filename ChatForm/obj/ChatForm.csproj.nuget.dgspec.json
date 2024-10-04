@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thaoh\\source\\repos\\ChatConsole\\ChatForm\\ChatForm.csproj": {}
+    "C:\\Users\\thaoh\\source\\repos\\ChatConsolePro\\ChatForm\\ChatForm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thaoh\\source\\repos\\ChatConsole\\ChatBusinessLogic\\ChatBusinessLogic.csproj": {
+    "C:\\Users\\thaoh\\source\\repos\\ChatConsolePro\\ChatBusinessLogic\\ChatBusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thaoh\\source\\repos\\ChatConsole\\ChatBusinessLogic\\ChatBusinessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\thaoh\\source\\repos\\ChatConsolePro\\ChatBusinessLogic\\ChatBusinessLogic.csproj",
         "projectName": "ChatBusinessLogic",
-        "projectPath": "C:\\Users\\thaoh\\source\\repos\\ChatConsole\\ChatBusinessLogic\\ChatBusinessLogic.csproj",
+        "projectPath": "C:\\Users\\thaoh\\source\\repos\\ChatConsolePro\\ChatBusinessLogic\\ChatBusinessLogic.csproj",
         "packagesPath": "C:\\Users\\thaoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thaoh\\source\\repos\\ChatConsole\\ChatBusinessLogic\\obj\\",
+        "outputPath": "C:\\Users\\thaoh\\source\\repos\\ChatConsolePro\\ChatBusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thaoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\thaoh\\source\\repos\\ChatConsole\\ChatConsole\\ChatAPI\\ChatAPI.csproj": {
-                "projectPath": "C:\\Users\\thaoh\\source\\repos\\ChatConsole\\ChatConsole\\ChatAPI\\ChatAPI.csproj"
+              "C:\\Users\\thaoh\\source\\repos\\ChatConsolePro\\ChatConsole\\ChatAPI\\ChatAPI.csproj": {
+                "projectPath": "C:\\Users\\thaoh\\source\\repos\\ChatConsolePro\\ChatConsole\\ChatAPI\\ChatAPI.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\thaoh\\source\\repos\\ChatConsole\\ChatConsole\\ChatAPI\\ChatAPI.csproj": {
+    "C:\\Users\\thaoh\\source\\repos\\ChatConsolePro\\ChatConsole\\ChatAPI\\ChatAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thaoh\\source\\repos\\ChatConsole\\ChatConsole\\ChatAPI\\ChatAPI.csproj",
+        "projectUniqueName": "C:\\Users\\thaoh\\source\\repos\\ChatConsolePro\\ChatConsole\\ChatAPI\\ChatAPI.csproj",
         "projectName": "ChatAPI",
-        "projectPath": "C:\\Users\\thaoh\\source\\repos\\ChatConsole\\ChatConsole\\ChatAPI\\ChatAPI.csproj",
+        "projectPath": "C:\\Users\\thaoh\\source\\repos\\ChatConsolePro\\ChatConsole\\ChatAPI\\ChatAPI.csproj",
         "packagesPath": "C:\\Users\\thaoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thaoh\\source\\repos\\ChatConsole\\ChatConsole\\ChatAPI\\obj\\",
+        "outputPath": "C:\\Users\\thaoh\\source\\repos\\ChatConsolePro\\ChatConsole\\ChatAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thaoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -145,14 +145,14 @@
         }
       }
     },
-    "C:\\Users\\thaoh\\source\\repos\\ChatConsole\\ChatForm\\ChatForm.csproj": {
+    "C:\\Users\\thaoh\\source\\repos\\ChatConsolePro\\ChatForm\\ChatForm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thaoh\\source\\repos\\ChatConsole\\ChatForm\\ChatForm.csproj",
+        "projectUniqueName": "C:\\Users\\thaoh\\source\\repos\\ChatConsolePro\\ChatForm\\ChatForm.csproj",
         "projectName": "ChatForm",
-        "projectPath": "C:\\Users\\thaoh\\source\\repos\\ChatConsole\\ChatForm\\ChatForm.csproj",
+        "projectPath": "C:\\Users\\thaoh\\source\\repos\\ChatConsolePro\\ChatForm\\ChatForm.csproj",
         "packagesPath": "C:\\Users\\thaoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thaoh\\source\\repos\\ChatConsole\\ChatForm\\obj\\",
+        "outputPath": "C:\\Users\\thaoh\\source\\repos\\ChatConsolePro\\ChatForm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thaoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -170,8 +170,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows7.0",
             "projectReferences": {
-              "C:\\Users\\thaoh\\source\\repos\\ChatConsole\\ChatBusinessLogic\\ChatBusinessLogic.csproj": {
-                "projectPath": "C:\\Users\\thaoh\\source\\repos\\ChatConsole\\ChatBusinessLogic\\ChatBusinessLogic.csproj"
+              "C:\\Users\\thaoh\\source\\repos\\ChatConsolePro\\ChatBusinessLogic\\ChatBusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\thaoh\\source\\repos\\ChatConsolePro\\ChatBusinessLogic\\ChatBusinessLogic.csproj"
               }
             }
           }

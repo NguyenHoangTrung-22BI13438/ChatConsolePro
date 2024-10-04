@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ChatBusinessLogic
-build_property.ProjectDir = C:\Users\thaoh\source\repos\ChatConsole\ChatBusinessLogic\
+build_property.ProjectDir = C:\Users\thaoh\source\repos\ChatConsolePro\ChatBusinessLogic\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
