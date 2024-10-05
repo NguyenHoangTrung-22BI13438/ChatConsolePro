@@ -112,10 +112,10 @@ C:\Users\thaoh\source\repos\ChatConsole\ChatForm\obj\Debug\net8.0-windows7.0\ref
 C:\Users\thaoh\source\repos\ChatConsole\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.pdb
 C:\Users\thaoh\source\repos\ChatConsole\ChatForm\obj\Debug\net8.0-windows7.0\ChatForm.genruntimeconfig.cache
 C:\Users\thaoh\source\repos\ChatConsole\ChatForm\obj\Debug\net8.0-windows7.0\ref\ChatForm.dll
-C:\Users\thaoh\source\repos\ChatConsolePro\ChatForm\bin\Debug\net8.0-windows7.0\appsettings.Development.json
-C:\Users\thaoh\source\repos\ChatConsolePro\ChatForm\bin\Debug\net8.0-windows7.0\appsettings.json
 C:\Users\thaoh\source\repos\ChatConsolePro\ChatForm\bin\Debug\net8.0-windows7.0\ChatAPI.deps.json
 C:\Users\thaoh\source\repos\ChatConsolePro\ChatForm\bin\Debug\net8.0-windows7.0\ChatAPI.runtimeconfig.json
+C:\Users\thaoh\source\repos\ChatConsolePro\ChatForm\bin\Debug\net8.0-windows7.0\appsettings.Development.json
+C:\Users\thaoh\source\repos\ChatConsolePro\ChatForm\bin\Debug\net8.0-windows7.0\appsettings.json
 C:\Users\thaoh\source\repos\ChatConsolePro\ChatForm\bin\Debug\net8.0-windows7.0\ChatAPI.exe
 C:\Users\thaoh\source\repos\ChatConsolePro\ChatForm\bin\Debug\net8.0-windows7.0\ChatForm.exe
 C:\Users\thaoh\source\repos\ChatConsolePro\ChatForm\bin\Debug\net8.0-windows7.0\ChatForm.deps.json

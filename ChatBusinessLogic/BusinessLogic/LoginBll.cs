@@ -17,7 +17,7 @@ namespace ChatBusinessLogic.BusinessLogic
             bool found = false;
             string returnMessage = string.Empty;
             int userId=0;
-            string oradb = @"Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521)))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=orcl)));User Id=HTML;Password=22112004;DBA Privilege=SYSDBA;";
+            string oradb = @"Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521)))(CONNECT_DATA=(SERVER=DEDICATED)(SID=orcl)));User Id=HTML;Password=22112004;DBA Privilege=SYSDBA;";
 
             using (OracleConnection conn = new OracleConnection(oradb))
             {
@@ -56,7 +56,8 @@ namespace ChatBusinessLogic.BusinessLogic
         }
         public string Laylaimatkhau(QuenMkModel model)
         {
-            string oradb = @"Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521)))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=orcl)));User Id=HTML;Password=22112004;DBA Privilege=SYSDBA;";
+            string oradb = @"Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521)))(CONNECT_DATA=(SERVER=DEDICATED)(SID=orcl)));User Id=HTML;Password=22112004;DBA Privilege=SYSDBA;";
+
 
             using (OracleConnection conn = new OracleConnection(oradb))
             {
