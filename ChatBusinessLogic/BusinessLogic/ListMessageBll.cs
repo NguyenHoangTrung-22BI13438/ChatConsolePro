@@ -38,8 +38,10 @@ namespace ChatBusinessLogic.BusinessLogic
                         int count = dt.Rows.Count;
                         for (int i = 0; i < dt.Rows.Count; i++)
                         {
-                            content[i] = dt.Rows[i][0].ToString();
-                            authoravatar[i] = dt.Rows[i][1].ToString();
+                            content[i] = dt.Rows[i][0]?.ToString() ?? string.Empty; // Default to empty string
+                            authoravatar[i] = dt.Rows[i][1]?.ToString() ?? string.Empty;
+
+
                             if (int.TryParse(dt.Rows[i][3].ToString(), out int StatusValue))
                             {
                                 status[i] = StatusValue;
@@ -47,8 +49,8 @@ namespace ChatBusinessLogic.BusinessLogic
                             else
                             {
                                 status[i] = 0;
-                            }                                
-                            time[i] = dt.Rows[i][2].ToString();
+                            }
+                            time[i] = dt.Rows[i][2]?.ToString() ?? string.Empty;
                             if (int.TryParse(dt.Rows[i][4].ToString(), out int idValue))
                             {
                                 authorid[i] = idValue;

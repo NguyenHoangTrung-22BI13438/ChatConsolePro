@@ -48,8 +48,9 @@ namespace ChatBusinessLogic.BusinessLogic
                             int count=dt.Rows.Count;
                             for (int i = 0; i < dt.Rows.Count; i++)
                             {
-                                name[i] = dt.Rows[i][1].ToString();
-                                lastmessage[i] = dt.Rows[i][4].ToString();
+                                name[i] = dt.Rows[i][1]?.ToString() ?? string.Empty; // Default to empty string
+                                lastmessage[i] = dt.Rows[i][4]?.ToString() ?? string.Empty;
+                                
                                 if (int.TryParse(dt.Rows[i][6].ToString(), out int idValue))
                                 {
                                     relationshipid[i] = idValue;
@@ -66,7 +67,7 @@ namespace ChatBusinessLogic.BusinessLogic
                                 {
                                     status[i] = 0; 
                                 }
-                                avatar[i] = dt.Rows[i][3].ToString();
+                                avatar[i] = dt.Rows[i][3]?.ToString() ?? string.Empty;
                             }
                             return new FriendOutputModel()
                             {

@@ -9,11 +9,12 @@ namespace ChatBusinessLogic.Model
 {
     public class ListMessageOutputModel
     {
-        public string[] Content { get; set; }
-        public int[] AuthorID { get; set; }
-        public string[] AuthorAvatar { get; set; }
-        public string[] Time { get; set; }
-        public int[] Status { get; set; }
-        public int Count {  get; set; }
+        public required string[] Content { get; set; }
+        public required int[] AuthorID { get; set; }
+        public required string[] AuthorAvatar { get; set; }
+        public required string[] Time { get; set; }
+        public required int[] Status { get; set; }
+        public int Count { get; set; }
     }
+
 }

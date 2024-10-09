@@ -35,9 +35,9 @@ namespace ChatBusinessLogic.BusinessLogic
                         {
                             return new AccountInfoOutputModel()
                             {
-                                Name = "",
-                                PhoneNumber = "",
-                                Avatar = "",
+                                Name = dt.Rows[0][0]?.ToString() ?? string.Empty,
+                                PhoneNumber = dt.Rows[0][1]?.ToString() ?? string.Empty,
+                                Avatar = dt.Rows[0][2]?.ToString() ?? string.Empty,
                             };
                         }
                     }
