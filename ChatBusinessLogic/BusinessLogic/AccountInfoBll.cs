@@ -8,7 +8,8 @@ namespace ChatBusinessLogic.BusinessLogic
     {
         public AccountInfoOutputModel AccountInfo (AccountInfoModel model)
         {
-            string oradb = @"Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=LOCALHOST)(PORT=1521)))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=orcl)));User Id=HTML;Password=22112004;DBA Privilege=SYSDBA;";
+            string oradb = "User Id=HTML;Password=22112004;Data Source=localhost:1521/ORCL;";
+
 
             using (OracleConnection conn = new OracleConnection(oradb))
             {

@@ -1,16 +1,7 @@
 ﻿using ChatBusinessLogic.BusinessLogic;
 using ChatBusinessLogic.Model;
-using Microsoft.VisualBasic.ApplicationServices;
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace ChatForm
 {
@@ -30,6 +21,7 @@ namespace ChatForm
             textBox3.Text = ct.Name;
             listView1.MouseClick += ListView1_MouseClick;
         }
+
         public void AddItem1(string friend_name, string avatar, string last_message, int ID)
         {
             ListViewGroup contactGroup = new ListViewGroup(friend_name, HorizontalAlignment.Left);
@@ -41,27 +33,31 @@ namespace ChatForm
             listView1.Items.Add(item1);
         }
 
-        public void ListView1_MouseClick(object sender, MouseEventArgs e)
+        public void ListView1_MouseClick(object? sender, MouseEventArgs e)
         {
             listView2.Items.Clear();
 
             ListViewHitTestInfo info = listView1.HitTest(e.X, e.Y);
-            ListViewItem item = info.Item;
+            ListViewItem? item = info.Item;
 
             if (item != null && item.Group != null)
             {
                 ListViewGroup group = item.Group;
                 string groupName = group.Header;
                 textBox2.Text = groupName;
-                int ID = (int)item.Tag;
-                ListMessageModel ListMessage = new ListMessageModel();
-                ListMessage.RelationshipID = ID;
-                _RelationshipID = ID;
-                ListMessageBll message = new ListMessageBll();
-                var ms = message.ListMessage(ListMessage);
-                for (int i = 0; i < ms.Count; i++)
+
+                if (item.Tag != null)
                 {
-                    AddItem2(ms.Status[i], ms.Content[i], ms.AuthorID[i], _UserID);
+                    int ID = (int)item.Tag;
+                    ListMessageModel ListMessage = new ListMessageModel();
+                    ListMessage.RelationshipID = ID;
+                    _RelationshipID = ID;
+                    ListMessageBll message = new ListMessageBll();
+                    var ms = message.ListMessage(ListMessage);
+                    for (int i = 0; i < ms.Count; i++)
+                    {
+                        AddItem2(ms.Status[i], ms.Content[i], ms.AuthorID[i], _UserID);
+                    }
                 }
             }
         }
@@ -88,8 +84,6 @@ namespace ChatForm
             }
         }
 
-
-
         void ContactListView(int ID)
         {
             listView1.View = View.Details;
@@ -115,8 +109,6 @@ namespace ChatForm
             listView2.Columns.Add("", 400, HorizontalAlignment.Left);
             listView2.Columns.Add("", 60, HorizontalAlignment.Left);
 
-            // màn hình khởi tạo
-
             ListMessageModel ListMessage = new ListMessageModel();
             textBox2.Text = ct.Name[0];
             ListMessage.RelationshipID = ct.RelationshipID[0];
@@ -127,7 +119,6 @@ namespace ChatForm
             {
                 AddItem2(ms.Status[i], ms.Content[i], ms.AuthorID[i], _UserID);
             }
-
         }
 
         public void button1_Click(object sender, EventArgs e)
@@ -146,7 +137,6 @@ namespace ChatForm
                 textBox1.Text = "";
             }
 
-            // reload
             listView1.Items.Clear();
             listView1.Columns.Clear();
             listView1.View = View.Details;
@@ -162,6 +152,10 @@ namespace ChatForm
             {
                 AddItem1(ct.Name[i], ct.Avatar[i], ct.LastMessage[i], ct.RelationshipID[i]);
             }
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
         }
     }
 }
