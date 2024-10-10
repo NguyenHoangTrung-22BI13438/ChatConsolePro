@@ -39,38 +39,41 @@
             // listView1
             // 
             listView1.Location = new Point(12, 71);
-            listView1.Margin = new Padding(2, 2, 2, 2);
+            listView1.Margin = new Padding(2);
             listView1.Name = "listView1";
             listView1.Size = new Size(308, 392);
             listView1.TabIndex = 0;
             listView1.UseCompatibleStateImageBehavior = false;
             listView1.View = View.SmallIcon;
+            listView1.SelectedIndexChanged += listView1_SelectedIndexChanged;
             // 
             // listView2
             // 
             listView2.Location = new Point(340, 71);
-            listView2.Margin = new Padding(2, 2, 2, 2);
+            listView2.Margin = new Padding(2);
             listView2.Name = "listView2";
             listView2.Size = new Size(789, 337);
             listView2.TabIndex = 1;
             listView2.TileSize = new Size(300, 30);
             listView2.UseCompatibleStateImageBehavior = false;
             listView2.View = View.SmallIcon;
+            listView2.SelectedIndexChanged += listView2_SelectedIndexChanged;
             // 
             // textBox1
             // 
             textBox1.Location = new Point(340, 420);
-            textBox1.Margin = new Padding(2, 2, 2, 2);
+            textBox1.Margin = new Padding(2);
             textBox1.Multiline = true;
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(694, 41);
             textBox1.TabIndex = 2;
+            textBox1.TextChanged += textBox1_TextChanged;
             // 
             // button1
             // 
             button1.Font = new Font("Segoe UI", 14F);
             button1.Location = new Point(1038, 420);
-            button1.Margin = new Padding(2, 2, 2, 2);
+            button1.Margin = new Padding(2);
             button1.Name = "button1";
             button1.Size = new Size(90, 40);
             button1.TabIndex = 3;
@@ -81,7 +84,7 @@
             // textBox2
             // 
             textBox2.Location = new Point(340, 10);
-            textBox2.Margin = new Padding(2, 2, 2, 2);
+            textBox2.Margin = new Padding(2);
             textBox2.Multiline = true;
             textBox2.Name = "textBox2";
             textBox2.ReadOnly = true;
@@ -93,12 +96,13 @@
             // 
             textBox3.Enabled = false;
             textBox3.Location = new Point(12, 10);
-            textBox3.Margin = new Padding(2, 2, 2, 2);
+            textBox3.Margin = new Padding(2);
             textBox3.Multiline = true;
             textBox3.Name = "textBox3";
             textBox3.ReadOnly = true;
             textBox3.Size = new Size(308, 53);
             textBox3.TabIndex = 5;
+            textBox3.TextChanged += textBox3_TextChanged;
             // 
             // Chat
             // 
@@ -111,7 +115,7 @@
             Controls.Add(textBox1);
             Controls.Add(listView2);
             Controls.Add(listView1);
-            Margin = new Padding(2, 2, 2, 2);
+            Margin = new Padding(2);
             Name = "Chat";
             Text = "Chat";
             ResumeLayout(false);

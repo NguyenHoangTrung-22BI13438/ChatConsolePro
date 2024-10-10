@@ -13,7 +13,8 @@ namespace ChatBusinessLogic.BusinessLogic
     {
         public ListMessageOutputModel ListMessage(ListMessageModel model)
         {
-            string oradb = "User Id=HTML;Password=22112004;Data Source=localhost:1521/ORCL;";
+            string oradb = "User Id=HTML;Password=22112004;Data Source=SignalAndSystem:1521/ORCL;";
+
 
 
             using (OracleConnection conn = new OracleConnection(oradb))
