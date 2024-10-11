@@ -15,10 +15,10 @@ namespace ChatBusinessLogic.BusinessLogic
 {
     public class FriendsBll
     {
+        public string oradb = "User Id=WEB;Password=H04ngTrung;Data Source=localhost:1521/ORCL;";
         public FriendOutputModel Friend(FriendModel model)
         {
-            string oradb = "User Id=HTML;Password=22112004;Data Source=SignalAndSystem:1521/ORCL;";
-
+            //string oradb = "User Id=HTML;Password=22112004;Data Source=SignalAndSystem:1521/ORCL;";
 
             using (OracleConnection conn = new OracleConnection(oradb))
             {

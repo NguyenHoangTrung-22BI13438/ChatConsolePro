@@ -96,10 +96,17 @@ C:\Users\thaoh\source\repos\ChatConsolePro\ChatWeb\bin\Debug\net8.0\ChatWeb.deps
 C:\Users\thaoh\source\repos\ChatConsolePro\ChatWeb\bin\Debug\net8.0\ChatWeb.runtimeconfig.json
 C:\Users\thaoh\source\repos\ChatConsolePro\ChatWeb\bin\Debug\net8.0\ChatWeb.dll
 C:\Users\thaoh\source\repos\ChatConsolePro\ChatWeb\bin\Debug\net8.0\ChatWeb.pdb
+C:\Users\thaoh\source\repos\ChatConsolePro\ChatWeb\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\thaoh\source\repos\ChatConsolePro\ChatWeb\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\thaoh\source\repos\ChatConsolePro\ChatWeb\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\thaoh\source\repos\ChatConsolePro\ChatWeb\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\thaoh\source\repos\ChatConsolePro\ChatWeb\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\thaoh\source\repos\ChatConsolePro\ChatWeb\obj\Debug\net8.0\ChatWeb.csproj.AssemblyReference.cache
 C:\Users\thaoh\source\repos\ChatConsolePro\ChatWeb\obj\Debug\net8.0\ChatWeb.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\thaoh\source\repos\ChatConsolePro\ChatWeb\obj\Debug\net8.0\ChatWeb.AssemblyInfoInputs.cache
 C:\Users\thaoh\source\repos\ChatConsolePro\ChatWeb\obj\Debug\net8.0\ChatWeb.AssemblyInfo.cs
 C:\Users\thaoh\source\repos\ChatConsolePro\ChatWeb\obj\Debug\net8.0\ChatWeb.csproj.CoreCompileInputs.cache
+C:\Users\thaoh\source\repos\ChatConsolePro\ChatWeb\obj\Debug\net8.0\ChatWeb.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\thaoh\source\repos\ChatConsolePro\ChatWeb\obj\Debug\net8.0\ChatWeb.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\thaoh\source\repos\ChatConsolePro\ChatWeb\obj\Debug\net8.0\ChatWeb.RazorAssemblyInfo.cache
 C:\Users\thaoh\source\repos\ChatConsolePro\ChatWeb\obj\Debug\net8.0\ChatWeb.RazorAssemblyInfo.cs
@@ -114,6 +121,7 @@ C:\Users\thaoh\source\repos\ChatConsolePro\ChatWeb\obj\Debug\net8.0\staticwebass
 C:\Users\thaoh\source\repos\ChatConsolePro\ChatWeb\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\thaoh\source\repos\ChatConsolePro\ChatWeb\obj\Debug\net8.0\scopedcss\bundle\ChatWeb.styles.css
 C:\Users\thaoh\source\repos\ChatConsolePro\ChatWeb\obj\Debug\net8.0\scopedcss\projectbundle\ChatWeb.bundle.scp.css
+C:\Users\thaoh\source\repos\ChatConsolePro\ChatWeb\obj\Debug\net8.0\ChatWeb.csproj.Up2Date
 C:\Users\thaoh\source\repos\ChatConsolePro\ChatWeb\obj\Debug\net8.0\ChatWeb.dll
 C:\Users\thaoh\source\repos\ChatConsolePro\ChatWeb\obj\Debug\net8.0\refint\ChatWeb.dll
 C:\Users\thaoh\source\repos\ChatConsolePro\ChatWeb\obj\Debug\net8.0\ChatWeb.pdb

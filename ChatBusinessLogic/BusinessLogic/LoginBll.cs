@@ -4,12 +4,13 @@ using System.Data;
 
 public class LoginBll
 {
+    public string oradb = "User Id=WEB;Password=H04ngTrung;Data Source=localhost:1521/ORCL;";
     public LoginOutputModel Login(LoginModel model)
     {
         bool found = false;
         string returnMessage = string.Empty;
         int userId = 0;
-        string oradb = "User Id=HTML;Password=22112004;Data Source=SignalAndSystem:1521/ORCL;";
+
 
 
         using (OracleConnection conn = new OracleConnection(oradb))
@@ -18,7 +19,7 @@ public class LoginBll
             using (OracleCommand cmd = new OracleCommand())
             {
                 cmd.Connection = conn;
-                cmd.CommandText = "SELECT account_name, pass_word, user_id FROM account WHERE TRIM(account_name) = TRIM(:username) AND TRIM(pass_word) = TRIM(:password)";
+                cmd.CommandText = "SELECT account_name, pass_word, user_id FROM account WHERE account_name = :username AND pass_word = :password";
                 cmd.Parameters.Add(new OracleParameter("username", model.UserName));
                 cmd.Parameters.Add(new OracleParameter("password", model.Password));
 
@@ -51,7 +52,7 @@ public class LoginBll
 
     public string Laylaimatkhau(QuenMkModel model)
     {
-        string oradb = "User Id=HTML;Password=22112004;Data Source=SignalAndSystem:1521/ORCL;";
+        
 
 
         using (OracleConnection conn = new OracleConnection(oradb))
